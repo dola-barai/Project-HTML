@@ -1,0 +1,27 @@
+h2{
+    color: blue;
+    text-decoration: underline green;
+}
+p{
+    color: red;
+}
+header{
+    height: 300px;
+    background-image: url(https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.page-title{
+    color: white;
+    font-weight: 400;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+ol li{
+    color: red;
+}
+
+a{
+  text-decoration: none;
+}
